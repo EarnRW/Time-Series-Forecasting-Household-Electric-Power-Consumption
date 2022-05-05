@@ -23,4 +23,4 @@ The task is to forecast 24-hour steps of electric power consumption, hourly. Mos
 4. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Blog Post](link)
+* [Blog Post](https://medium.com/@rwarunanont/time-series-forecasting-household-electric-power-consumption-60494bc9ded4)
